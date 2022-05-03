@@ -51,3 +51,5 @@ class ServiceActivity : AppCompatActivity() {
         return false
     }
 }
+
+//сервисы используются для проигрывания музыки даже при свернутом приложении (вк, я.музыка и тд)

@@ -68,3 +68,5 @@ class ProviderActivity : AppCompatActivity() {
     }
 }
 
+//импорт и экспорт контактов используется в мессенджерах (tg, whatsapp ...)
+
